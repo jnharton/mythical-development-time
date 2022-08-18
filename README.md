@@ -1,11 +1,19 @@
 # mythical-development-time
 
 The game I created for Ludum Dare 40 (Jam)  
-https://ldjam.com/events/ludum-dare/40/mythical-development-time
+https://ldjam.com/events/ludum-dare/40/mythical-development-time  
+  
+You can get the final .love file and Windows (32-bit, 64-bit) executables here:  
+https://drive.google.com/drive/folders/1Ecs6cNP3aCO6JlteMvI4aCBZqrOmCFuF?usp=sharing  
+  
+Template used: https://github.com/camchenry/Love2D-Template  
+^ The template files included in this repository were downloaded some time in late December 2017.
 
 ---
 
-MDT is a game about how software development time really works. More developers does not equal more productivity, in fact since existing developers have to train new ones and the new ones are not familiar with the exact work at the beginning despite basic skills/talent they are a productivity sink for a while…
+MDT is a game about how software development time really works.  
+  
+More developers does not equal more productivity, in fact since existing developers have to train new ones and the new ones are not familiar with the exact work at the beginning despite basic skills/talent they are a productivity sink for a while…
 
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
@@ -33,7 +41,5 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 **Credits:**  
 https://github.com/camchenry/Love2D-Template  
 ^ a truly awesome template to get started making games. provides a basic menu and state switching plus bundling require’ing a bunch of common libraries.
-
-*NOTE:* the files included in this repository were downloaded some time in late December 2017  
 
 ---
